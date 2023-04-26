@@ -12,16 +12,16 @@
         <main>
           <article class="profile">
             <picture class="profile-img">
-              <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <source srcset="images/野原新之助.png" media="(min-width: 600px)">
+              <img src="images/野原新之助.png" alt="profile">
             </picture>
             <div class="content">
-              <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+              <p class="detail">Zeen's Coding Profile</p>
+                <h1>Zeen Deng</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                A high school student who is going to travel to pittsburgh in the summer
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/zeen1717/4-24Websitestyle/deployments/activity_log?environment=github-pages" class="button" id="btn_stop" >Github Link</a>
             </div>
           </article>
         </main>

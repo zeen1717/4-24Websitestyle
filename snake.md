@@ -163,3 +163,14 @@ $(document).ready(function(){
 </script>
 </body>
 </html>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="images/snake.png" width="70%" height="500px">
